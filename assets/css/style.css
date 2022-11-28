@@ -613,7 +613,8 @@ section {
 .about h3 {
   font-weight: 400;
   font-size: 26px;
-  margin-left: 0px;
+  color: #1f194c;
+  margin: 1em 0em;
 }
 
 .about img{
